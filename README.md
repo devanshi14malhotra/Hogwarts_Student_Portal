@@ -1,14 +1,13 @@
 # 🧙‍♂️ Hogwarts Student Portal
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/devanshi14malhotra/Hogwarts_Student_Portal)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Made with React](https://img.shields.io/badge/made%20with-React-blue)](https://reactjs.org/)
-[![Live Demo](https://img.shields.io/badge/demo-online-green)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/demo-online-green)](https://hogwartswizardingportal.netlify.app/)
 
 A responsive, modern web application built to streamline academic management for Hogwarts students. It features GPA tracking, attendance, assignments, and house points — all in a sleek dark/light themed UI.
 
 Deployed site: https://hogwartswizardingportal.netlify.app/
-
+#### For screenshots, refer to PROJECT_NOTES.md
 ---
 
 ## 🌟 Features
