@@ -7,7 +7,7 @@
 
 A responsive, modern web application built to streamline academic management for Hogwarts students. It features GPA tracking, attendance, assignments, and house points — all in a sleek dark/light themed UI.
 
-Deployed site: 
+Deployed site: https://hogwartswizardingportal.netlify.app/
 
 ---
 
